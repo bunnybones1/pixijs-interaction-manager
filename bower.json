@@ -1,0 +1,7 @@
+{
+  "name": "pixijs-interaction-manager",
+  "version": "0.0.1",
+  "dependencies": {
+    "pixi.js": "~1.6.1"
+  }
+}
